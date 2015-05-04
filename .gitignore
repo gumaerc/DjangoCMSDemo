@@ -55,3 +55,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Custom
+.DS_Store
+.venv/
+db.sqlite3

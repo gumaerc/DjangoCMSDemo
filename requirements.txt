@@ -1,0 +1,4 @@
+django-cms
+
+Pillow
+psycopg2
